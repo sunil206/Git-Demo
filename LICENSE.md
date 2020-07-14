@@ -1,3 +1,3 @@
 #LICENSE
 
-##LICENSE Under Apache 2.0
+##LICENSE Under Apache 3.0
